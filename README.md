@@ -1,1 +1,1 @@
- Where am I?
+script thatswitches the current user to user
